@@ -14,4 +14,5 @@ an old CD ROM marked 'GPS stuff'.
 
 If you use this data please credit "Joe Desbonnet"
 
-# GPS_SA_switch_off
+![GPS Selective Availability switch off event](./sa_off.png)
+
